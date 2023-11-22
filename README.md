@@ -6,14 +6,14 @@
 
 ### Research Questions
 
-**1: How does the use of ChatGPT impact the software development process and the overall 
+1. How does the use of ChatGPT impact the software development process and the overall 
 quality of software by analyzing the success rate of issues based on the prompts given by 
 the users?
 
-**2: How does the result that ChatGPT produces for a query differ with respect to quality issues 
+2. How does the result that ChatGPT produces for a query differ with respect to quality issues 
 when compared to that of internet-based searches (Google Search)?
 
-**3:Do developers often find the number of turns required to reach a conclusion in ChatGPT 
+3. Do developers often find the number of turns required to reach a conclusion in ChatGPT 
 conversations consistent or variable for different issues?
 
 ### Folder Structure
