@@ -23,7 +23,7 @@ conversations consistent or variable for different issues?
 
 - Research Question 2
     - Dataset: 20230727_195816_hn_sharing.json
-    - Code for analysis and visualisation: rq1.ipynb
+    - Code for analysis and visualisation: rq2.ipynb
 
 - Research Question 3
     - Dataset: 20230727_195816_hn_sharings.json
