@@ -1,4 +1,4 @@
-# DEVGpt
+# DevGPT
 
 #### Gautham Chadalavada(GC23M), V S Madhura Gayathri Mannava(VM23P), Ruchitha Reddy Munugala(RM23S)
 
