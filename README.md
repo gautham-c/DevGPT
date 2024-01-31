@@ -1,6 +1,4 @@
-# CEN 5035 – SOFTWARE ENGINEERING
-
-## Group - 10
+# DEVGpt
 
 #### Gautham Chadalavada(GC23M), V S Madhura Gayathri Mannava(VM23P), Ruchitha Reddy Munugala(RM23S)
 
